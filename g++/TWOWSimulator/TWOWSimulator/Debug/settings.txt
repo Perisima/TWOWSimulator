@@ -1,7 +1,7 @@
 Current Round
 8
 # Of Contestants
-13
+12
 # Of Simulations
 14000605
 Twist (0-None, 1-JPomz S3 Lives)
